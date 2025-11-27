@@ -2,7 +2,7 @@
 class exercise 
 
 This is Step II from the slide 8
-My first commit to a branch 
+My second commit to a branch 
 
 
 
