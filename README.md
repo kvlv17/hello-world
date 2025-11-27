@@ -1,9 +1,5 @@
 # hello-world
-class exercise 
 
-This is Step II from the slide 8
-My second commit to a branch 
-
-
-
-
+Hi! This is my first time creating repository and branch 
+I use Docker and SQL 
+Database Management 
